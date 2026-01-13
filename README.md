@@ -3,7 +3,7 @@
 🚀 Project Completed: Retail Customer Behavior & RFM Analysis | Power BI Dashboard
 I’m excited to share my end-to-end RFM (Recency, Frequency, Monetary) Customer Segmentation project, where I transformed raw retail transaction data into actionable business insights using SQL, Python and PowerBI.
 🔍 What I Did
-This project focuses on understanding customer purchasing behavior and enabling data-driven decision-making through advanced segmentation.
+This project focuses on understanding customer purchasing behavior and enabling data-driven decision-making through advanced segmentation. 
 ✔ Cleaned and processed raw retail data using SQL(mySQL Database)
  ✔ Calculated RFM metrics using python(pandas, numpy) for accurate customer scoring
  ✔ Segmented customers into Champions, potential Loyalists, Loyal, At Risk, Hibernating
