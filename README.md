@@ -35,7 +35,4 @@ Detailed table showing average recency, frequency, and order value by segment
 🛠 Tools & Technologies
 SQL | Python | Power BI | DAX
 This project strengthened my skills in data cleaning, data modeling, DAX measures, KPI analysis, and interactive visual storytelling, reflecting real-world Business Intelligence and Analytics workflows.
-Grateful for the learning journey and excited to apply these skills in impactful Data Analyst / BI Analyst roles 🚀
-hashtag#PowerBI hashtag#DataAnalytics hashtag#BusinessIntelligence hashtag#CustomerSegmentation
- hashtag#RFMAnalysis hashtag#SQL hashtag#Python hashtag#DashboardDesign hashtag#DataVisualization
- hashtag#AnalyticsJourney #RetailAnalytics#Infotact Solutions
+Grateful for the learning journey and excited to apply these skills in impactful Data Analyst / BI Analyst roles.
